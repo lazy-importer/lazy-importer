@@ -1,4 +1,4 @@
-<h3 align="center">HEY 👋! My name is 𝖕𝖍𝖆𝖓𝖙𝖔𝖒 and I'm a reverse engineer since 3 years from France <br><br>> learned Python  <br>> Currentrly learning C++ / JavaScript / Golang <br>> Reverse Engineer since 3 years <br>> AI Enthusiastic</h3>
+<h3 align="center">HEY 👋! My name is 𝖕𝖍𝖆𝖓𝖙𝖔𝖒 and I'm a reverse engineer since 3 years from France <br><br>> learned Python  <br>> Currentrly learning C++ / JavaScript / Golang <br>> AI Enthusiastic</h3>
 
 ###
 
